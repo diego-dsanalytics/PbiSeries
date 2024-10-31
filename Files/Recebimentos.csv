@@ -1,4 +1,4 @@
-data;plano contas id;cliente;uf;valor recebido
+data;plano_contas_id;cliente;uf;valor_recebido
 05/01/2017;11;Cliente 26;SP;R$ 20,64
 06/01/2017;11;Cliente 26;SP;R$ 74,74
 09/01/2017;11;Cliente 26;SP;R$ 94.993,81
